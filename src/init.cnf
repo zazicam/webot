@@ -1,7 +1,9 @@
 [mysql]
 host     = localhost
-# username = user 
-# password = pass
+
+# логин и пароль для подключения к MySQL
+username = user   
+password = pass  
 
 charset  = utf8
 
