@@ -1,1 +1,18 @@
+[mysql]
+host     = localhost
+# username = user 
+# password = pass
 
+charset  = utf8
+
+# опции по умолчанию
+[options]         
+
+# задержка между запросами к сайту, мс 
+delay = 100 
+
+# максимальная случайная задержка между запросами, мс
+random = 100            
+
+# файл со списком игнорируемых url-ов       
+ignorefile = ignore.cnf   

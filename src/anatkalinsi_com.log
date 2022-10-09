@@ -1,0 +1,17 @@
++----+----------------------------------------------------+-------+-----------+------------------------------------------------------------------+
+| id | url                                                | level | parent_id | code                                                             |
++----+----------------------------------------------------+-------+-----------+------------------------------------------------------------------+
+|  0 | http://anatkalinski.com                            |     0 |        -1 | 35c0bc737246f693f91959d69f9e0886b3936824ef51a5901f475e00505123d5 |
+|  1 | http://anatkalinski.com/about.html                 |     1 |         0 | db370b1ddee499c0ea800d0dc11d691afb1537844635bf4d9e250ac4bf4b7dbf |
+|  2 | http://anatkalinski.com/work.html                  |     1 |         0 | ca7b8a2b992146b32b26ba1e21de010ec05edc70fc76379dbc3c8ac94c4e331f |
+|  3 | http://anatkalinski.com/contact.html               |     1 |         0 | e00551664ce219dded740ebf7c9909006a1d169583d7d760eabc33838ea293ba |
+|  4 | http://anatkalinski.com/index.html                 |     1 |         0 | 35c0bc737246f693f91959d69f9e0886b3936824ef51a5901f475e00505123d5 |
+|  5 | http://anatkalinski.com/Sizzzle.html               |     1 |         0 | 9b603d8d810d215f3800dc009307ded5e39915c8bad0f72c2555ca351aa69b1f |
+|  6 | http://anatkalinski.com/booking-destrec-n-ms.html  |     1 |         0 | aa557fb58edb59747ba57032edba3b5e8af6e8f436d47c138ceeabbbfafb1850 |
+|  7 | http://anatkalinski.com/College-of-Management.html |     1 |         0 | 28e73f8d3e4e886370e395f6e23d2ff7a7f477c7d56d0ee8cbd5c93f39a8ec45 |
+|  8 | http://anatkalinski.com/Ubasti-Collection.html     |     1 |         0 | f24b5b8912141d81fe349f7a9b0a9302e90fa836fa340e80f7b2907c6624907f |
+|  9 | http://anatkalinski.com/TubeTeacher.html           |     1 |         0 | 1114c17351d62ed2deef3ed282c0c1df2740b9748c8947f8f0560da9ff129bd1 |
+| 10 | http://anatkalinski.com/MyRole.html                |     1 |         0 | 2ddf7c370c936ba59c57e8cd577666dc465a6cceec9e66870ee3b537f9f5140f |
+| 11 | http://anatkalinski.com/StepApp.html               |     1 |         0 | e831570ee49a485f4cf3bc2978acb3b4d009350a250494eaf215948550493670 |
+| 12 | http://anatkalinski.com/Sizzzle.html#0             |     2 |         5 | 9b603d8d810d215f3800dc009307ded5e39915c8bad0f72c2555ca351aa69b1f |
++----+----------------------------------------------------+-------+-----------+------------------------------------------------------------------+

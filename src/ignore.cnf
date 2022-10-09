@@ -1,0 +1,55 @@
+[files]
+jpg jpeg png gif bmp svg tif tiff img
+doc docx rtf pdf djvu
+zip gzip xz bzip tgz rar tar
+exe bin js swf fla
+mp3 mp4 avi mov
+dat ini txt
+
+[keywords]
+/file/
+/file_
+_file_
+
+javascript:
+js
+
+sort=
+order=
+orderby=
+ord_type=
+display=
+sort_
+sort_by=
+direction=
+=asc
+=desc
+
+count=
+limit=
+on_page=
+products_per_page=
+PER_PAGE=
+PAGE_ELEMENT_COUNT=
+
+view=
+view_type=
+view_mode=
+grid-view
+list-view
+table-view
+=title
+=list
+=table
+
+/cart
+/basket 
+/shopcart 
+/order
+/shoppingcart
+/checkout
+/korzina
+/simplecheckout
+/viewcart
+
+.jpg?
